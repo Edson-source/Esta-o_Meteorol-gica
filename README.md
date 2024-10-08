@@ -107,7 +107,7 @@ Para instalar todas as bibliotecas necessárias, abra o Arduino IDE, vá em Sket
 
 
 ### Orçamento
-O levantamento dos preços de cada componente foi realizado através de pesquisa na internet, consultando sites especializados na venda de componentes eletrônicos como: Amazon, Eletrogate e Usinainfo. Como referência, o orçamento foi levantado em junho/2024. Todos os componentes utilizados na construção da estação e descritos na subseção de caracterização do sistema embarcado estão compilados na tabela:
+O levantamento dos preços de cada componente foi realizado através de pesquisa na internet, consultando sites especializados na venda de componentes eletrônicos como: Amazon, Eletrogate e Usinainfo. Como referência, o orçamento foi levantado em outubro/2024. Todos os componentes utilizados na construção da estação e descritos na subseção de caracterização do sistema embarcado estão compilados na tabela:
 
 | Componente                                                                           | Preço    | Fonte      |
 | ------------------------------------------------------------------------------------ | -------- | ---------- |
