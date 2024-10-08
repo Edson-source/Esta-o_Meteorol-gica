@@ -102,10 +102,6 @@ Para instalar todas as bibliotecas necessárias, abra o Arduino IDE, vá em Sket
 ### Foto da montagem física
 ![estação_campus](https://github.com/user-attachments/assets/d75a953b-d2bd-48a5-80e3-8c6c2d8ba26f)
 
-
-### Vídeo do sistema funcionando
-
-
 ### Orçamento
 O levantamento dos preços de cada componente foi realizado através de pesquisa na internet, consultando sites especializados na venda de componentes eletrônicos como: Amazon, Eletrogate e Usinainfo. Como referência, o orçamento foi levantado em outubro/2024. Todos os componentes utilizados na construção da estação e descritos na subseção de caracterização do sistema embarcado estão compilados na tabela:
 
