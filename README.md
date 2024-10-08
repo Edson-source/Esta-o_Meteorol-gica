@@ -19,7 +19,6 @@ Esta seção descreve detalhadamente os componentes e processos utilizados na co
 - [**DHT11**](https://github.com/cyberdebb/estacao_meteorologica/blob/main/sensores/DHT11): Sensor de temperatura e umidade, usado para medições ambientais básicas.
 - [**Pluviômetro**](https://github.com/cyberdebb/estacao_meteorologica/blob/main/sensores/Pluviometro): Dispositivo utilizado para medir a quantidade de precipitação.
 - [**Anemômetro Arduino SV10**](https://github.com/cyberdebb/estacao_meteorologica/blob/main/sensores/Anemometro): Sensor utilizado para medir a velocidade do vento.
-- [**Indicador de direção do vento Arduino DV10**](https://github.com/cyberdebb/estacao_meteorologica/blob/main/sensores/Ind_Direcao_Vento): Sensor utilizado para determinar a direção do vento.
 
 ### Diagrama dos componentes
 
