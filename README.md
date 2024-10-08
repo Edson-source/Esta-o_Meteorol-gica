@@ -1,16 +1,19 @@
-1. Introdução
+<h1>Estação Meteorológica</h1>
+
+## 1. Introdução
 Este projeto visa desenvolver uma solução integrada para o monitoramento de condições meteorológicas, utilizando tecnologias de ponta em hardware e comunicações. Neste repositório, focaremos exclusivamente na montagem do hardware e na integração do sistema embarcado com um servidor remoto, detalhando cada componente usado, sua configuração e a interconexão necessária para a transmissão eficiente de dados.
 
 
-# Diagrama de comunicação
+<h3>Diagrama de comunicação</h3> 
 
 
-2. Materiais e métodos
+## 2. Materiais e métodos
 Nota: Neste projeto, não foi utilizado o sensor de temperatura e pressão BMP280 por problemas na utilização do material. Porém, o hardware e o software permitem sua utilização para integração na estação meteorológica
 
 Esta seção descreve detalhadamente os componentes e processos utilizados na construção e operação da estação meteorológica.
 
-Caracterização do sistema embarcado
+<h3>Caracterização do sistema embarcado</h3>
+
 ESP32: Um módulo microcontrolador com Wi-Fi e Bluetooth integrados, ideal para aplicações IoT.
 DHT11: Sensor de temperatura e umidade, usado para medições ambientais básicas.
 Pluviômetro: Dispositivo utilizado para medir a quantidade de precipitação.
@@ -21,7 +24,8 @@ O diagrama abaixo define a configuração física utilizada e a interconexão do
 
 Imagem do WhatsApp de 2024-06-15 à(s) 17 48 53_0760c21e
 
-# Configuração de Ambiente Local
+<h3>Configuração de Ambiente Local</h3>
+
 Para configurar o ambiente local, siga os passos abaixo. Este arquivo deve conter informações sensíveis como SSID e senha da rede WiFi, além da URL do servidor:
 
 Navegue até a pasta main do seu projeto e crie um arquivo chamado settings.h.
