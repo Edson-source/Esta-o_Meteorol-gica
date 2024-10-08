@@ -23,6 +23,7 @@ Esta seção descreve detalhadamente os componentes e processos utilizados na co
 ### Diagrama dos componentes
 
 O diagrama abaixo define a configuração física utilizada e a interconexão dos componentes da estação meteorológica: 
+
 ![Circuito Eletrônico](https://github.com/user-attachments/assets/192fa36d-62be-40fa-8a0f-5a6529da20d1)
 
 
