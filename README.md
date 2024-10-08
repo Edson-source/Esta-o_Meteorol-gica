@@ -32,10 +32,11 @@ Navegue até a pasta main do seu projeto e crie um arquivo chamado settings.h.
 
 Adicione as seguintes linhas ao arquivo:
 
-const char* ssid = "SeuSSID";  // Substitua pelo SSID da sua rede
-const char* password = "SuaSenha";  // Substitua pela senha da sua rede
-String serverURL = "URLDoSeuServidor"; // Substitua pela URL do seu servidor
-Configuração do ESP32
+>const char* ssid = "SeuSSID";  // Substitua pelo SSID da sua rede
+>const char* password = "SuaSenha";  // Substitua pela senha da sua rede
+>String serverURL = "URLDoSeuServidor"; // Substitua pela URL do seu servidor
+
+### Configuração do ESP32
 Instalação do Driver para o ESP32
 Baixe e Instale o Driver:
 
