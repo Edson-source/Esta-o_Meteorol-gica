@@ -4,7 +4,7 @@
 Este projeto visa desenvolver uma solução integrada para o monitoramento de condições meteorológicas, utilizando tecnologias de ponta em hardware e comunicações. Neste repositório, focaremos exclusivamente na montagem do hardware e na integração do sistema embarcado com um servidor remoto, detalhando cada componente usado, sua configuração e a interconexão necessária para a transmissão eficiente de dados.
 
 ### Diagrama de comunicação
-![Diagrama_Comunicacao_ESP32U](https://github.com/user-attachments/assets/17a07ea6-7a3c-4d8a-ad3b-ed756ee7b042)
+![Diagrama_Comunicacao_ESP32](https://github.com/user-attachments/assets/55e45daf-c120-474d-b588-3f3aeb87cf61)
 
 
 ## 2. Materiais e métodos 
