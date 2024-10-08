@@ -22,7 +22,7 @@ Indicador de direção do vento Arduino DV10: Sensor utilizado para determinar a
 Diagrama dos componentes
 O diagrama abaixo define a configuração física utilizada e a interconexão dos componentes da estação meteorológica: Diagrama PI_Grande
 
-Imagem do WhatsApp de 2024-06-15 à(s) 17 48 53_0760c21e
+
 
 <h3>Configuração de Ambiente Local</h3>
 
@@ -31,7 +31,7 @@ Para configurar o ambiente local, siga os passos abaixo. Este arquivo deve conte
 Navegue até a pasta main do seu projeto e crie um arquivo chamado settings.h.
 
 Adicione as seguintes linhas ao arquivo:
-
+##
 <tab><tab>const char* ssid = "SeuSSID";  // Substitua pelo SSID da sua rede
 >const char* password = "SuaSenha";  // Substitua pela senha da sua rede
 >String serverURL = "URLDoSeuServidor"; // Substitua pela URL do seu servidor
